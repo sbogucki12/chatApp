@@ -4,7 +4,10 @@ This a web chat app that allows users to log in (via socal accounts), create roo
 
 ## Timeline
 
-+ 1/6/2018 pm: First commit.  Prepared the server. Set up some basic routes, middleware, and view renderer (ejs). Uploaded stock UI items.
++ Day One (1/6/2018 pm): First commit.  Prepared the server. Set up some basic routes, middleware, and view renderer (ejs). Uploaded stock UI items.
++ Day Two (1/7/2018 pm): Refactored routes into their own router module. 
+
+
 
 
 
